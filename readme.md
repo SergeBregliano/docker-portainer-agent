@@ -10,7 +10,7 @@ L'installation d'un agent Portainer ne doit pas être exposée au public. L'acc�
 
 ## Installation
 
-Copie des sources dans le répertoire ``portaient_agent`` :
+Copie des sources dans le répertoire ``portainer_agent`` :
 
 ```shell
 git clone https://github.com/SergeBregliano/docker-portainer-agent.git portainer_agent
