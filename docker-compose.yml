@@ -3,7 +3,7 @@ version: '3'
 services:
 
   portainer:
-    image: portainer/agent
+    image: portainer/agent:lts
     restart: unless-stopped
     container_name: portainer_agent
     volumes:
